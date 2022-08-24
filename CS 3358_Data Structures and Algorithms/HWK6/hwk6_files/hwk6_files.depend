@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1604374895 source:c:\users\dm5me\documents\cs 3358_data structures and algorithms\hwk6\hwk6_files\main.cpp
+	<iostream>
+	<string>
+	<stdio.h>
+	"dlist.h"
+
+1604355618 c:\users\dm5me\documents\cs 3358_data structures and algorithms\hwk6\hwk6_files\dlist.h
+

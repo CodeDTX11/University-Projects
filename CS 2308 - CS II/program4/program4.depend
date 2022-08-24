@@ -1,0 +1,23 @@
+# depslib dependency file v1.0
+1593303401 source:c:\users\dm5me\documents\cs 2308 - cs ii\program4\towerofterror.cpp
+	<iostream>
+	<iomanip>
+	<fstream>
+	"Queue.h"
+
+1593232182 c:\users\dm5me\documents\cs 2308 - cs ii\program4\queue.h
+	<iostream>
+	<iomanip>
+	<fstream>
+
+1593303401 source:c:\users\dm5me\documents\tx state summer 2020\cs 2308 - cs ii\program4\towerofterror.cpp
+	<iostream>
+	<iomanip>
+	<fstream>
+	"Queue.h"
+
+1593232182 c:\users\dm5me\documents\tx state summer 2020\cs 2308 - cs ii\program4\queue.h
+	<iostream>
+	<iomanip>
+	<fstream>
+

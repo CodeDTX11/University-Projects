@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1592975606 source:c:\users\dm5me\documents\cs 2308 - cs ii\prog3\program 3\passworddriver.cpp
+	<iostream>
+	<iomanip>
+	<fstream>
+	"PasswordManager.h"
+
+1592879325 c:\users\dm5me\documents\cs 2308 - cs ii\prog3\program 3\passwordmanager.h
+
+1592886907 source:c:\users\dm5me\documents\cs 2308 - cs ii\prog3\program 3\passwordmanager.cpp
+	<iostream>
+	<iomanip>
+	<fstream>
+	"PasswordManager.h"
+
